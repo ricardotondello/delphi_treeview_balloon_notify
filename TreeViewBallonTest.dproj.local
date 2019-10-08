@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/23 15:58:25.000.705,=C:\Users\ricardo.tondello\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/23 15:59:18.000.882,C:\Users\ricardo.tondello\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\ricardo.tondello\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/10/08 07:04:13.035,D:\dsv\GIT\delphi_treeview_balloon_notify\TreeViewBallon.pas=D:\dsv\GIT\delphi_treeview_balloon_notify\Unit1.pas</Transaction>
+    <Transaction>2019/10/08 07:04:13.035,D:\dsv\GIT\delphi_treeview_balloon_notify\TreeViewBallon.dfm=D:\dsv\GIT\delphi_treeview_balloon_notify\Unit1.dfm</Transaction>
+    <Transaction>2019/10/08 07:05:56.715,D:\dsv\GIT\delphi_treeview_balloon_notify\TreeViewBallonTest.dproj=D:\dsv\GIT\delphi_treeview_balloon_notify\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
